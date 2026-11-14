@@ -1,0 +1,21 @@
+{
+  "generator": "git-portfolio-generator",
+  "version": 1,
+  "template": "modern",
+  "schemaVersion": 1,
+  "theme": {
+    "accentColour": "#0ea5e9",
+    "fontPair": "inter-inter",
+    "mode": "light"
+  },
+  "managedFiles": [
+    ".nojekyll",
+    "index.html",
+    "assets/css/main.css",
+    "assets/js/main.js",
+    "404.html",
+    "favicon.svg",
+    "sitemap.xml",
+    "robots.txt"
+  ]
+}
